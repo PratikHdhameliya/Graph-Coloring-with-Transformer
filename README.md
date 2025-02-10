@@ -47,8 +47,7 @@ We use a **Distance-Aware Transformer Model** with the following components:
 - The transformer outputs probabilities for each node's color assignment.
 
 
-![Image](https://github.com/user-attachments/assets/cd6fd81e-76d2-4cf0-af4a-7580beb4f4ce)
-
+![Image](https://github.com/user-attachments/assets/58327f5e-2452-4e74-a7e3-cf69c17e2d1c)![Image](https://github.com/user-attachments/assets/cd6fd81e-76d2-4cf0-af4a-7580beb4f4ce)
 
 ---
 
