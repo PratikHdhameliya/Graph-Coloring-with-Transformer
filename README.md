@@ -46,6 +46,10 @@ We use a **Distance-Aware Transformer Model** with the following components:
 - A distance-based attention mask is applied to focus on local interactions.
 - The transformer outputs probabilities for each node's color assignment.
 
+
+![Image](https://github.com/user-attachments/assets/cd6fd81e-76d2-4cf0-af4a-7580beb4f4ce)
+
+
 ---
 
 ## Installation
